@@ -1,3 +1,4 @@
 print("Goodbye world;");
 print("GoogBye;");
 print("ƒосвидани€ мой ласковый и нежный зверь;");
+print("Au revoir");
