@@ -5,4 +5,5 @@ print("Hello my dear friend;");
 print("Glad to see you;");
 print("Bonjour Mademoiselle et Monsieur;");
 print("Здравствуйте, дорогие человеки;");
+print("what`s up?");
 
