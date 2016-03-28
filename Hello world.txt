@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 print("Hello World;");
 print("Hello everybody;");
 print("Hello;");
 print("Hello my dear friend;");
 print("Glad to see you;");
-
+print("Здравствуйте, дорогие человеки");
